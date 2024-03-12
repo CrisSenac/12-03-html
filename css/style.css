@@ -1,0 +1,41 @@
+/* body{
+    background-color: green;
+} */
+
+p{
+    color: violet;
+    font-size: 80px;
+}
+
+
+body{
+    padding-bottom: 500px;
+
+}
+/* 08 classes */
+.paragraph{
+    background-color:black;
+    color: aqua;
+    padding: 5px;
+}
+
+#exclusive-title{
+    background-color: purple;
+    color: beige;
+    padding: 10px;
+    font-size: 40px;
+    text-align: center;
+}
+
+/* 10 multiplas regras */
+
+h2{
+    border-bottom: 2px dotted red;
+}
+.titulo{
+    border-bottom: 3px solid blue;
+}
+#algum-titulo{
+    border-bottom: 4px solid green;
+}
+
