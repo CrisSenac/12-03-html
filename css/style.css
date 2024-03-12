@@ -115,3 +115,16 @@ h2{
     background-position: center;
     background-size: cover;
 }
+
+/* 19 largura e altura */
+
+ .without-pdding,
+ .padding {
+    background-color: #111;
+    color: #fff;
+ }
+
+ .padding {
+    background-color: #333;
+    padding: 20px;
+ }
