@@ -66,3 +66,11 @@ h2{
     /* color: #aa55ff; */
     color: #aa55ff;
 }
+
+.rgb{
+    color: rgb(255,0,0);
+}
+
+.mixed-rgb{
+    color: rgb(199,21,47);
+}
